@@ -8,6 +8,9 @@
         "control",
         "rain"
     ],
+    "scripts": {
+        "test": "echo \"No tests :(\""
+    },
     "homepage": "https://github.com/lamo2k123/rein-loader",
     "bugs": {
         "url": "https://github.com/lamo2k123/rein-loader/issues"
