@@ -1,6 +1,6 @@
 {
     "name": "rain-loader",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Control enable/disable webpack loaders",
     "keywords": [
         "webpack",
